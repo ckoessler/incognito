@@ -20,6 +20,7 @@ router.get('/', function(req, res) {
 
             "work": [{
                 "company": "Dell / SonicWALL",
+                "location": "San Jose, CA",
                 "position": "Software Engineer",
                 "startDate": "02/12",
                 "endDate": "present",
@@ -35,6 +36,7 @@ router.get('/', function(req, res) {
                 ]
             }, {
                 "company": "Axway Software",
+                "location": "Redwood City, CA",
                 "position": "Software Engineer Internship",
                 "startDate": "06/11",
                 "endDate": "09/11",
@@ -45,6 +47,7 @@ router.get('/', function(req, res) {
                 ]
             }, {
                 "company": "Sogeti",
+                "location": "Lyon, France",
                 "position": "Co-op Software Engineer",
                 "startDate": "09/09",
                 "endDate": "08/10",
@@ -55,6 +58,7 @@ router.get('/', function(req, res) {
                 ]
             }, {
                 "company": "Sopra Group",
+                "location": "Lyon, France",
                 "position": "Software Engineer Internship",
                 "startDate": "01/09",
                 "endDate": "02/09",
