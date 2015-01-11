@@ -88,7 +88,7 @@ router.get('/', function(req, res) {
 
             "interests": [{
                 "label":"Travel",
-                "image":""
+                "image":"http://cdn.flaticon.com/png/256/48881.png"
             },{
                 "label":"Snowboarding",
                 "image":""
