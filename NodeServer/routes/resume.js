@@ -86,13 +86,22 @@ router.get('/', function(req, res) {
                 "institution": "Udacity"
             }],
 
-            "interests": [
-                "Travel",
-                "Snowboarding",
-                "Surfing",
-                "Motorcycle Racing",
-                "Home Automation"
-            ]
+            "interests": [{
+                "label":"Travel",
+                "image":""
+            },{
+                "label":"Snowboarding",
+                "image":""
+            },{
+                "label":"Surfing",
+                "image":""
+            },{
+                "label":"Motorcycle Racing",
+                "image":""
+            },{
+                "label":"Home Automation",
+                "image":""
+            }]
         });
 });
 
