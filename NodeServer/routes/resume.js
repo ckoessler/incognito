@@ -88,19 +88,24 @@ router.get('/', function(req, res) {
 
             "interests": [{
                 "label":"Travel",
-                "image":"http://cdn.flaticon.com/png/256/48881.png"
+                "image":"http://cdn.flaticon.com/png/256/48880.png",
+                "imageRights":"<div>Icon made by <a href=\"http://www.freepik.com\" title=\"Freepik\">Freepik</a> from <a href=\"http://www.flaticon.com\" title=\"Flaticon\">www.flaticon.com</a> is licensed under <a href=\"http://creativecommons.org/licenses/by/3.0/\" title=\"Creative Commons BY 3.0\">CC BY 3.0</a></div>"
             },{
                 "label":"Snowboarding",
-                "image":""
+                "image":"http://cdn.flaticon.com/png/256/37542.png",
+                "imageRights":"<div>Icon made by <a href=\"http://www.freepik.com\" title=\"Freepik\">Freepik</a> from <a href=\"http://www.flaticon.com\" title=\"Flaticon\">www.flaticon.com</a> is licensed under <a href=\"http://creativecommons.org/licenses/by/3.0/\" title=\"Creative Commons BY 3.0\">CC BY 3.0</a></div>"
             },{
                 "label":"Surfing",
-                "image":""
+                "image":"http://cdn.flaticon.com/png/256/48043.png",
+                "imageRights":"<div>Icon made by <a href=\"http://www.freepik.com\" title=\"Freepik\">Freepik</a> from <a href=\"http://www.flaticon.com\" title=\"Flaticon\">www.flaticon.com</a> is licensed under <a href=\"http://creativecommons.org/licenses/by/3.0/\" title=\"Creative Commons BY 3.0\">CC BY 3.0</a></div>"
             },{
                 "label":"Motorcycle Racing",
-                "image":""
+                "image":"http://cdn.flaticon.com/png/256/37879.png",
+                "imageRights":"<div>Icon made by <a href=\"http://www.freepik.com\" title=\"Freepik\">Freepik</a> from <a href=\"http://www.flaticon.com\" title=\"Flaticon\">www.flaticon.com</a> is licensed under <a href=\"http://creativecommons.org/licenses/by/3.0/\" title=\"Creative Commons BY 3.0\">CC BY 3.0</a></div>"
             },{
                 "label":"Home Automation",
-                "image":""
+                "image":"http://cdn.flaticon.com/png/256/49011.png",
+                "imageRights":"<div>Icon made by <a href=\"http://www.freepik.com\" title=\"Freepik\">Freepik</a> from <a href=\"http://www.flaticon.com\" title=\"Flaticon\">www.flaticon.com</a> is licensed under <a href=\"http://creativecommons.org/licenses/by/3.0/\" title=\"Creative Commons BY 3.0\">CC BY 3.0</a></div>"
             }]
         });
 });
